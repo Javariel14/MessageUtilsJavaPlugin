@@ -1,5 +1,3 @@
-package javariel14.systemdni.Utils;
-
 import org.bukkit.ChatColor;
 
 public class MessageUtils {
